@@ -20,7 +20,7 @@ author: Dan Hendrycks
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://course.mlsafety.org" # the base hostname & protocol for your
 # site, e.g. http://example.com
-url: https://mlsafety-course.pages.dev
+url: https://course.mlsafety.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
