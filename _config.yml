@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ML Safety Course
+title: Intro to ML Safety 
 tagline: TODO A Jekyll template for course websites
 description: TODO A modern, highly customizable, responsive Jekyll template for course websites
 author: Dan Hendrycks

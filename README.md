@@ -5,7 +5,7 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: ML Safety Course
+  name: Introduction to ML Safety
 ---
 
 # Introduction to ML Safety
