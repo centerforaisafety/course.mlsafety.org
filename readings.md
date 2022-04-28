@@ -241,44 +241,8 @@ description: TODO The weekly event schedule.
 
 ### ML for Cyberdefense
 
-#### Intrusion Detection
-
-- [Using Decision Trees to Improve Signature Based Intrusion Detection](https://link.springer.com/chapter/10.1007/978-3-540-45248-5_10)
-
-- [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](https://ieeexplore.ieee.org/document/5504793)
-
-- [Zero-day malware detection using transferred generative adversarial networks based on deep autoencoders](https://www.sciencedirect.com/science/article/abs/pii/S0020025518303475)
-
-#### Code and software vulnerability analysis
-
-- [Neuzz: Efficient Fuzzing with neural program smoothing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835342)
-
-- [NeuFuzz: Efficient Fuzzing with deep neural networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8672949)
-
-- [Neutaint: Efficient Dynamic Taint Analysis with Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152790)
-
-#### Malware Detection
-
-- [Recognizing Functions in Binaries with Neural Networks](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-shin.pdf)
-
-- [Analysis of Machine learning Techniques Used in Behavior-Based Malware Detection](https://ieeexplore.ieee.org/abstract/document/5675808)
-
-#### Modeling and prediction of cyber attack response
-
-- [Modeling future cyber attack steps](https://link.springer.com/chapter/10.1007/978-981-15-4474-3_5)
-
-- [Modeling response](https://ieeexplore.ieee.org/abstract/document/9141989)
-
-- [A deep learning framework for predicting cyber attack rates](https://link.springer.com/article/10.1186/s13635-019-0090-6)
-
-#### Code Translation and Code Generation
-- [Program Synthesis with Large Language Models](https://arxiv.org/pdf/2108.07732.pdf)
-
-- [Unsupervised Translation of Programming Language](https://arxiv.org/pdf/2006.03511.pdf?id=mDo0CwAAQBAJ&pg=PA347&f=falsesequence=1&v1a=m1xx10&isAllowed=y)
-
 - [Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions](https://arxiv.org/pdf/2108.09293.pdf?nylayout=pc)
 
-- [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf?ref=https://githubhelp.com)
 
 ## X-Risk
 
