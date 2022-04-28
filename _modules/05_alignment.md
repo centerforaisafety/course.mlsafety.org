@@ -15,4 +15,4 @@ title: Alignment
 14
 : Machine Ethics
   : [🗂️ slides](https://docs.google.com/presentation/d/1yibQ-RBSMnejAdEk8iMTTzYyTFmMiRasOLwdvvahZkE/edit?usp=sharing)
-: normative ethics background, human values, translating moral knowledge into action, value lock-in, safelife, attainable utility preservation
+: normative ethics background, human values, value learning, translating moral knowledge into action, value lock-in, safelife, attainable utility preservation
