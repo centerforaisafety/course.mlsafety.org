@@ -15,7 +15,7 @@ description: TODO The weekly event schedule.
 
 ## Introduction
 
-- [Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916)
+- **[Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916)**
 
 - [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 
@@ -29,7 +29,7 @@ description: TODO The weekly event schedule.
 
 - [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
 
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
 
 - [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
@@ -37,7 +37,7 @@ description: TODO The weekly event schedule.
 
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
 
-- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- **[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)**
 
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 
@@ -48,7 +48,7 @@ description: TODO The weekly event schedule.
 - [Designing for safety, Consequence assessment, Safety models and accident models](https://risk-engineering.org/safe-design/)
 - [https://risk-engineering.org/consequence-assessment/](https://risk-engineering.org/safety-models/)
 
-- [Power laws, Pareto distributions and Zipf’s law](http://tuvalu.santafe.edu/~aaronc/courses/5352/readings/Newman_05_PowerLawsParetoDistributionsAndZipfsLaw.pdf)
+- **[Power laws, Pareto distributions and Zipf’s law](http://tuvalu.santafe.edu/~aaronc/courses/5352/readings/Newman_05_PowerLawsParetoDistributionsAndZipfsLaw.pdf)**
 
 - [A Brief History of Generative Models for Power Law and Lognormal Distributions](https://www.stat.berkeley.edu/~aldous/Networks/1089229510.pdf)
 
@@ -69,13 +69,13 @@ description: TODO The weekly event schedule.
 
 - [The Precautionary Principle (skip second half)](https://arxiv.org/abs/1410.5787)
 
-- [What is a Complex System?](https://www.youtube.com/watch?v=vp8v2Udd_PM)
+- **[What is a Complex System?](https://www.youtube.com/watch?v=vp8v2Udd_PM)**
 
-- [Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)
+- **[Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)**
 
 - [Emergence (Basic)](https://www.youtube.com/watch?v=16W7c0mb-rE)
 
-- [Nonlinear Causality](https://www.youtube.com/watch?v=76JRJ90s548)
+- **[Nonlinear Causality](https://www.youtube.com/watch?v=76JRJ90s548)**
 
 - [Beyond Normal Accidents and High Reliability Organizations: The Need for an Alternative Approach to Safety in Complex Systems](http://sunnyday.mit.edu/papers/hro.pdf)
 
@@ -85,17 +85,21 @@ description: TODO The weekly event schedule.
 
 - [How Complex Systems Fail](https://how.complexsystems.fail/)
 
-- [Introduction](https://www.youtube.com/watch?v=_ptmjAbacMk) to [STAMP](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf)
+- **Introduction to STAMP ([video](https://www.youtube.com/watch?v=_ptmjAbacMk), [slides](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf))**
 
 ## Adversarial Robustness
 
 - [Data Augmentation Can Improve Robustness](https://arxiv.org/abs/2111.05328)
 
-- [- [Gradient-based Adversarial Attacks against Text Transformers](https://arxiv.org/abs/2104.13733)](https://github.com/chbrian/awesome-adversarial-examples-dl)
+- [Gradient-based Adversarial Attacks against Text
+  Transformers](https://arxiv.org/abs/2104.13733)
+  ([GitHub](https://github.com/chbrian/awesome-adversarial-examples-dl))
 
 - [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536)
 
-- [- [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks](https://arxiv.org/abs/2003.01690)](https://robustbench.github.io/)
+- [Reliable evaluation of adversarial robustness with an ensemble of diverse
+  parameter-free attacks](https://arxiv.org/abs/2003.01690)
+  ([website](https://robustbench.github.io/))
 
 - [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
 
@@ -105,13 +109,13 @@ description: TODO The weekly event schedule.
 
 - [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
 
-- [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
+- **[Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)**
 
 - [Certified Defenses against Adversarial Examples](https://arxiv.org/abs/1801.09344)
 
 - [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
 
-- [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
+- **[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)**
 
 - [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 
@@ -121,7 +125,7 @@ description: TODO The weekly event schedule.
 
 - [WILDS: A Benchmark of in-the-Wild Distribution Shifts](https://arxiv.org/abs/2012.07421)
 
-- [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241)
+- **[The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241)**
 
 - [ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models](https://papers.nips.cc/paper/2019/hash/97af07a14cacba681feacf3012730892-Abstract.html)
 
@@ -131,7 +135,7 @@ description: TODO The weekly event schedule.
 
 - [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
 
-- [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261)
+- **[Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261)**
 
 ## Monitoring
 
@@ -145,17 +149,17 @@ description: TODO The weekly event schedule.
 
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
 
-- [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606)
+- **[Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606)**
 
-- [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136)
+- **[A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136)**
 
 ### Calibration and Representative Uncertainty
 
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135)
 
-- [Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
+- **[Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)**
 
-- [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)
+- **[On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)**
 
 - [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
 
@@ -165,13 +169,13 @@ description: TODO The weekly event schedule.
 
 - [TrojAI](https://pages.nist.gov/trojai/)
 
-- [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
+- **[Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)**
 
 - [Detecting AI Trojans Using Meta Neural Analysis](https://arxiv.org/abs/1910.03137)
 
-- [Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)
+- **[Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)**
 
-- [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)
+- **[Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)**
 
 - [STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://arxiv.org/abs/1902.06531)
 
@@ -181,7 +185,7 @@ description: TODO The weekly event schedule.
 
 ### Detecting and Forecasting Emergent Behavior
 
-- [The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)
+- **[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)**
 
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
@@ -189,7 +193,7 @@ description: TODO The weekly event schedule.
 
 - [The Off-Switch Game](https://arxiv.org/abs/1611.08219)
 
-- [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)
+- **[The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)**
 
 ## Alignment
 
@@ -213,7 +217,7 @@ description: TODO The weekly event schedule.
 
 <!--<upcoming utility paper>-->
 
-- [What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)
+- **[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)**
 
 - [Aligning AI With Shared Human Values](https://arxiv.org/abs/2008.02275)
 
@@ -223,7 +227,7 @@ description: TODO The weekly event schedule.
 
 - [The Structure of Normative Ethics ](https://cpb-us-west-2-juc1ugur1qwqqqo4.stackpathdns.com/campuspress.yale.edu/dist/7/724/files/2016/01/The-Structure-of-Normative-Ethics-2gw2akt.pdf)
 
-- [Ethics Background (Introduction through Absolute Rights or Prima Facie Duties)](https://www.youtube.com/playlist?list=PLKtXFotbf7fOg7zbQ3565EnpzzKlYaVVI)
+- **[Ethics Background (Introduction through Absolute Rights or Prima Facie Duties)](https://www.youtube.com/playlist?list=PLKtXFotbf7fOg7zbQ3565EnpzzKlYaVVI)**
 
 ## Systemic Safety
 
@@ -232,7 +236,7 @@ description: TODO The weekly event schedule.
 
 - [On the Difference between Binary Prediction and True Exposure With Implications For Forecasting Tournaments and Decision Making Research](https://www.stat.berkeley.edu/~aldous/157/Papers/taleb_tetlock.pdf)
 
-- [Superforecasting | Philip Tetlock](https://youtu.be/pedNak4S9IE?t=440)
+- [Superforecasting -- Philip Tetlock](https://youtu.be/pedNak4S9IE?t=440)
 
 ### ML for Cyberdefense
 
@@ -246,7 +250,9 @@ description: TODO The weekly event schedule.
 
 #### Code and software vulnerability analysis
 
-- [- [Neuzz: Efficient Fuzzing with neural program smoothing and NeuFuzz: Efficient Fuzzing with deep neural networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835342)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8672949)
+- [Neuzz: Efficient Fuzzing with neural program smoothing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835342)
+
+- [NeuFuzz: Efficient Fuzzing with deep neural networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8672949)
 
 - [Neutaint: Efficient Dynamic Taint Analysis with Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152790)
 
@@ -258,9 +264,9 @@ description: TODO The weekly event schedule.
 
 #### Modeling and prediction of cyber attack response
 
-- [Modeling future cyber attack steps: ](https://link.springer.com/chapter/10.1007/978-981-15-4474-3_5)
+- [Modeling future cyber attack steps](https://link.springer.com/chapter/10.1007/978-981-15-4474-3_5)
 
-- [Modeling response:](https://ieeexplore.ieee.org/abstract/document/9141989)
+- [Modeling response](https://ieeexplore.ieee.org/abstract/document/9141989)
 
 - [A deep learning framework for predicting cyber attack rates](https://link.springer.com/article/10.1186/s13635-019-0090-6)
 
@@ -289,10 +295,12 @@ description: TODO The weekly event schedule.
 ## Safety for Future Advanced Models
 
 ### Existential Considerations
-- [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)
 
-- [What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)
+- **[Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)**
 
+- **[What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)**
+
+TODO below
 AGI Safety From First Principles
 - [AI risk, executive summary](https://www.lesswrong.com/posts/sXkg52ZwzCAGo3p5w/ai-risk-executive-summary)
 Potential Failure Modes
