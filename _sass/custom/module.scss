@@ -1,3 +1,6 @@
+.main-content {
+  counter-reset: coursenum;
+}
 .main-content .module,
 .module {
   @extend %card;
@@ -42,6 +45,8 @@
     }
 
     >dt {
+      visibility: hidden;
+      counter-increment: coursenum;
       @extend %module-item;
       border-top: $border $border-color;
       font-weight: normal;
@@ -60,7 +65,8 @@
       }
 
       &::after {
-        content: ":";
+        visibility: visible;
+        content: counter(coursenum);
       }
     }
 
