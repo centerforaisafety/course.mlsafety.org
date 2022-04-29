@@ -15,4 +15,4 @@ title: Hazard Analysis
 5
 : Black Swans
   : [🗂️ slides](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing)
-: unknown unknowns, long tailed distributions, extremistan
+: unknown unknowns, long tailed distributions, multiplicative processes, extremistan
