@@ -10,7 +10,7 @@ title: Monitoring
 9
 : Interpretable Uncertainty
   : [🗂️ slides](https://docs.google.com/presentation/d/1GHKlv-9UmQdUPracBr09AC2rFZp_GQyJzSQrvSWFjPM/edit?usp=sharing)
-: calibration, confidence intervals
+: Brier score, RMS calibration error, reliability diagrams, confidence intervals
 
 10
 : Trojans
