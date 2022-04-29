@@ -9,8 +9,8 @@ title: Alignment
 
 13
 : Power-seeking
-  : [🗂️ slides](https://docs.google.com/presentation/d/15mcqa1pQ4Ns6il8qC3v3uwlkTmXWyyhDBeTtAVRHjdY/edit?usp=sharing)
-: Turner et al., depends on Thomas and my research TODO
+  : [🗂️ slides]()
+: in preparation
 
 14
 : Machine Ethics
