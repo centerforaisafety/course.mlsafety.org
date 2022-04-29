@@ -3,9 +3,9 @@ title: Hazard Analysis
 ---
 
 3
-: Disaster Risk Equation
+: Risk Decomposition
     : [🗂️ slides](https://docs.google.com/presentation/d/1RMZ89VHzVnDhugcrrwvHQnRIw366dMr3JYFC3rkxjL0/edit?usp=sharing)
-: risk analysis definitions, decomposition of course subjects
+: risk analysis definitions, disaster risk equation, decomposition of safety subjects
 
 4
 : Accident Models
