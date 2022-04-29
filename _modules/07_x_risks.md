@@ -10,8 +10,7 @@ title: Additional Existential Risks
 18
 : Possible Existential Hazards
   : [🗂️ slides](https://docs.google.com/presentation/d/1tp65f22ZhWoKdie6VNrh2nY1dWLoK_0WXSSXzdBYLt4/edit?usp=sharing)
-: weaponization, treacherous turn, deceptive alignment, value lock-in,
-persuasive AI
+: weaponization, proxy misspecification, treacherous turn, deceptive alignment, value lock-in, persuasive AI
 
 19
 : Safety-Capabilities Balance
