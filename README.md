@@ -17,7 +17,7 @@ This is a topics course in machine learning, so a solid background in Machine Le
 
 ## Syllabus
 
-Hazard Analysis: Disaster Risk Equation, A Systems View of Safety, Black Swans
+Hazard Analysis: Risk Decomposition, A Systems View of Safety, Black Swans
 
 Robustness: Adversaries, Long Tails
 
