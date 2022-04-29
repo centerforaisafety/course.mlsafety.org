@@ -3,7 +3,7 @@ title: Systemic Safety
 ---
 
 15
-: ML for Improved Decision-making
+: ML for Improved Decision-Making
     : [🗂️ slides](https://docs.google.com/presentation/d/1HmbLzwmx4IiqoIlhoZ0uDTdLxCP31O3XM9mhJOlJRYM/edit?usp=sharing)
 : forecasting, brainstorming
 
