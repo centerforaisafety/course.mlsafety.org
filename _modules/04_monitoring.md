@@ -8,7 +8,7 @@ title: Monitoring
 : AUROC/AUPR/FPR95, likelihoods and detection, MSP baseline, OE, ViM, anomaly datasets, one-class learning, detecting adversaries
 
 9
-: Expressive Uncertainty
+: Interpretable Uncertainty
   : [🗂️ slides](https://docs.google.com/presentation/d/1GHKlv-9UmQdUPracBr09AC2rFZp_GQyJzSQrvSWFjPM/edit?usp=sharing)
 : calibration, confidence intervals
 
