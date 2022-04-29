@@ -20,4 +20,4 @@ title: Monitoring
 11
 : Detecting Emergent Behavior
   : [🗂️ slides](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing)
-: emergent capabilities, proxy gaming, Goodhart’s law
+: emergent capabilities, instrumental convergence, proxy gaming, Goodhart’s law
