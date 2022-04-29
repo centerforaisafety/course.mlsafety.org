@@ -5,14 +5,14 @@ title: Hazard Analysis
 3
 : Risk Decomposition
     : [🗂️ slides](https://docs.google.com/presentation/d/1RMZ89VHzVnDhugcrrwvHQnRIw366dMr3JYFC3rkxjL0/edit?usp=sharing)
-: risk analysis definitions, disaster risk equation, decomposition of safety subjects, ability to cope and x-risk
+: risk analysis definitions, disaster risk equation, decomposition of safety subjects, ability to cope and existential risk
 
 4
 : Accident Models
   : [🗂️ slides](https://docs.google.com/presentation/d/1HquuLs0OTVYvuk0QRCG_6aqWhmMEf7sDBFLvRaEAZL4/edit?usp=sharing)
-: FMEA, Bow Tie model, Swiss Cheese model, defense in depth, prevantative and protective measures, complex systems, nonlinear causality, emergence, STAMP
+: FMEA, Bow Tie model, Swiss Cheese model, defense in depth, preventative and protective measures, complex systems, nonlinear causality, emergence, STAMP
 
 5
 : Black Swans
   : [🗂️ slides](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing)
-: long tails, extremistan, unknown unknowns
+: unknown unknowns, long tailed distributions, extremistan
