@@ -27,4 +27,4 @@ Alignment: Honesty, Power-seeking, and Value Learning
 
 Systemic Safety: ML for Improved Epistemics, ML for Improved Cyberdefense
 
-Other Sources of X-Risk: Future Scenarios, Avoiding Capabilities Externalities
+Additional X-Risk Discussion: Future Scenarios, Avoiding Capabilities Externalities
