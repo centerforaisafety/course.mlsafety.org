@@ -21,7 +21,7 @@ Hazard Analysis: Risk Decomposition, A Systems View of Safety, Black Swans
 
 Robustness: Adversaries, Long Tails
 
-Monitoring: Anomalies, Uncertainty, Trojans, and Emergent Behavior
+Monitoring: Anomalies, Interpretable Uncertainty, Trojans, and Emergent Behavior
 
 Alignment: Honesty, Power-seeking, and Value Learning
 
