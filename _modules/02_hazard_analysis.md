@@ -5,7 +5,7 @@ title: Hazard Analysis
 3
 : Risk Decomposition
     : [🗂️ slides](https://docs.google.com/presentation/d/1RMZ89VHzVnDhugcrrwvHQnRIw366dMr3JYFC3rkxjL0/edit?usp=sharing)
-: risk analysis definitions, disaster risk equation, decomposition of safety subjects, ability to cope and existential risk
+: risk analysis definitions, disaster risk equation, decomposition of safety areas, ability to cope and existential risk
 
 4
 : Accident Models
