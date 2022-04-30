@@ -15,7 +15,7 @@ title: Additional Existential Risk Discussion
 19
 : Safety-Capabilities Balance
   : [🗂️ slides](https://docs.google.com/presentation/d/1P2VsZClM6YsK_vYtO66Yt-JeKlCFBABK-4ieZf0F2B4/edit?usp=sharing)
-: theories of impact, capabilities externalities
+: theories of impact, differential technological progress, capabilities externalities
 
 20
 : Review
