@@ -18,6 +18,6 @@ title: Additional Existential Risk Discussion
 : theories of impact, differential technological progress, capabilities externalities
 
 20
-: Review
+: Review and Conclusion
   : [🗂️ slides](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing)
-: reliability and alignment, technical research for sociotechnical impact
+: reliability and alignment, pillars of ML safety research
