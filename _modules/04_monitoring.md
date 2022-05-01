@@ -19,5 +19,5 @@ title: Monitoring
 
 11
 : Detecting Emergent Behavior
-  : [🖥️](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing), [📝](https://www.overleaf.com/read/mfwgrcvtxqhx), [⌨️ coding](https://drive.google.com/file/d/1pqOiDUnodSxhxXNetltSPxhiYJf2cjFp/view?usp=sharing)
+  : [🖥️](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing), [📝](https://www.overleaf.com/read/mfwgrcvtxqhx), [⌨️](https://drive.google.com/file/d/1pqOiDUnodSxhxXNetltSPxhiYJf2cjFp/view?usp=sharing)
 : emergent capabilities, instrumental convergence, Goodhart’s law, proxy gaming
