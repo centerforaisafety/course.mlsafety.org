@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Readings
-description: TODO The weekly event schedule.
+description: Course readings.
 ---
 
 # Readings
 {:.no_toc}
+
+_Italicized_ resources are required, and other resources are suggested.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,7 +17,7 @@ description: TODO The weekly event schedule.
 
 ## Introduction
 
-- **[Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916)**
+- _[Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916)_
 
 - [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 
@@ -23,9 +25,9 @@ description: TODO The weekly event schedule.
 
 ### Deep Learning Review
 
-- **[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)**
+- _[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)_
 
-- **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
+- _[Attention Is All You Need](https://arxiv.org/abs/1706.03762)_
 
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
@@ -45,13 +47,13 @@ description: TODO The weekly event schedule.
 
 ## Risk Analysis
 
-- **[Power laws, Pareto distributions and Zipf’s law](http://tuvalu.santafe.edu/~aaronc/courses/5352/readings/Newman_05_PowerLawsParetoDistributionsAndZipfsLaw.pdf)**
+- _[Power laws, Pareto distributions and Zipf’s law](http://tuvalu.santafe.edu/~aaronc/courses/5352/readings/Newman_05_PowerLawsParetoDistributionsAndZipfsLaw.pdf)_
 
-- **[What is a Complex System?](https://www.youtube.com/watch?v=vp8v2Udd_PM)**
+- _[What is a Complex System?](https://www.youtube.com/watch?v=vp8v2Udd_PM)_
 
-- **[Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)**
+- _[Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)_
 
-- **Introduction to STAMP ([video](https://www.youtube.com/watch?v=_ptmjAbacMk), [slides](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf))**
+- _Introduction to STAMP ([video](https://www.youtube.com/watch?v=_ptmjAbacMk), [slides](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf))_
 
 - [Designing for safety, Consequence assessment, Safety models and accident models](https://risk-engineering.org/safe-design/)
 - [https://risk-engineering.org/consequence-assessment/](https://risk-engineering.org/safety-models/)
@@ -90,9 +92,9 @@ description: TODO The weekly event schedule.
 
 ## Adversarial Robustness
 
-- **[Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)**
+- _[Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)_
 
-- **[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)**
+- _[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)_
 
 - [Data Augmentation Can Improve Robustness](https://arxiv.org/abs/2111.05328)
 
@@ -122,9 +124,9 @@ description: TODO The weekly event schedule.
 
 ## Long Tails and Distribution Shift
 
-- **[The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241)**
+- _[The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241)_
 
-- **[Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261)**
+- _[Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261)_
 
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135)
 
@@ -142,9 +144,9 @@ description: TODO The weekly event schedule.
 
 ### OOD and Malicious Behavior Detection
 
-- **[Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606)**
+- _[Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606)_
 
-- **[A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136)**
+- _[A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136)_
 
 - [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)
 
@@ -156,9 +158,9 @@ description: TODO The weekly event schedule.
 
 ### Calibration and Representative Uncertainty
 
-- **[On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)**
+- _[On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)_
 
-- **[Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)**
+- _[Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)_
 
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135)
 
@@ -168,11 +170,11 @@ description: TODO The weekly event schedule.
 
 ### Trojans
 
-- **[Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)**
+- _[Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)_
 
-- **[Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)**
+- _[Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)_
 
-- **[Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)**
+- _[Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)_
 
 - [TrojAI](https://pages.nist.gov/trojai/)
 
@@ -186,9 +188,9 @@ description: TODO The weekly event schedule.
 
 ### Detecting and Forecasting Emergent Behavior
 
-- **[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)**
+- _[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)_
 
-- **[The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)**
+- _[The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)_
 
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
@@ -218,9 +220,9 @@ description: TODO The weekly event schedule.
 
 <!--<upcoming utility paper>-->
 
-- **[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)**
+- _[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)_
 
-- **[Ethics Background (Introduction through "Absolute Rights or Prima Facie Duties")](https://www.youtube.com/playlist?list=PLKtXFotbf7fOg7zbQ3565EnpzzKlYaVVI)**
+- _[Ethics Background (Introduction through "Absolute Rights or Prima Facie Duties")](https://www.youtube.com/playlist?list=PLKtXFotbf7fOg7zbQ3565EnpzzKlYaVVI)_
 
 - [Aligning AI With Shared Human Values](https://arxiv.org/abs/2008.02275)
 
@@ -246,8 +248,8 @@ description: TODO The weekly event schedule.
 
 ## X-Risk
 
-- **[X-Risk Analysis for AI Research](https://drive.google.com/file/d/1kUroMFoGc7Zym3ce01EaRu2uysyRFJhx/view?usp=sharing)**
+- _[X-Risk Analysis for AI Research](https://drive.google.com/file/d/1kUroMFoGc7Zym3ce01EaRu2uysyRFJhx/view?usp=sharing)_
 
-- **[Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)**
+- _[Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)_
 
-- **[What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)**
+- _[What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)_
