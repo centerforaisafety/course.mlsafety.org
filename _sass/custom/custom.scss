@@ -124,3 +124,8 @@ summary {
     height: 100%;
   }
 }
+
+// Hide the credits footer for cleaner look
+.site-footer {
+  display: none;
+}
