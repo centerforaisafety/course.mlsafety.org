@@ -9,5 +9,5 @@ title: Robustness
 
 7
 : Black Swan Robustness
-  : [🗂️ slides](https://docs.google.com/presentation/d/1uW7hNstJAq7_lSyk3yP8yTSjN85itESbDHFRi1F4wiw/edit?usp=sharing)
+  : [🗂️ slides](https://docs.google.com/presentation/d/1uW7hNstJAq7_lSyk3yP8yTSjN85itESbDHFRi1F4wiw/edit?usp=sharing), [📝 questions](https://www.overleaf.com/read/mfwgrcvtxqhx), [💻 coding assignment](https://colab.research.google.com/drive/1ezV-jXyPgXDMSo6LqXyRgV_f2ky0cCFH?usp=sharing)
 : stress tests, train-test mismatch, adversarial distribution shifts, simulated scenarios for robustness
