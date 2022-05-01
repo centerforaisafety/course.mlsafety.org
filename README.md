@@ -17,14 +17,9 @@ This is a topics course in machine learning, so a solid background in Machine Le
 
 ## Syllabus
 
-Hazard Analysis: Risk Decomposition, A Systems View of Safety, Black Swans
-
-Robustness: Adversaries, Long Tails
-
-Monitoring: Anomalies, Interpretable Uncertainty, Trojans, and Emergent Behavior
-
-Alignment: Honesty, Power-seeking, and Value Learning
-
-Systemic Safety: ML for Improved Epistemics, ML for Improved Cyberdefense
-
-Additional X-Risk Discussion: Future Scenarios, Avoiding Capabilities Externalities
+1. **Hazard Analysis**: Risk Decomposition, A Systems View of Safety, Black Swans
+2. **Robustness**: Adversaries, Long Tails
+3. **Monitoring**: Anomalies, Interpretable Uncertainty, Trojans, and Emergent Behavior
+4. **Alignment**: Honesty, Power-seeking, and Value Learning
+5. **Systemic Safety**: ML for Improved Epistemics, ML for Improved Cyberdefense
+6. **Additional X-Risk Discussion**: Future Scenarios, Avoiding Capabilities Externalities
