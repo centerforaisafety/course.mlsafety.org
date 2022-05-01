@@ -4,7 +4,7 @@ title: Monitoring
 
 8
 : Anomaly Detection
-    : [🗂️ slides](https://docs.google.com/presentation/d/1WEzSFUbcl1Rp4kQq1K4uONMJHBAUWhCZTzWVHnLcSV8/edit?usp=sharing)
+    : [🗂️ slides](https://docs.google.com/presentation/d/1WEzSFUbcl1Rp4kQq1K4uONMJHBAUWhCZTzWVHnLcSV8/edit?usp=sharing), [💻 coding assignment](https://drive.google.com/drive/folders/1mbuH1heBpxk75oYvGlfiTWRqLHbIgT8V?usp=sharing)
 : AUROC/AUPR/FPR95, likelihoods and detection, MSP baseline, OE, ViM, anomaly datasets, one-class learning, detecting adversaries
 
 9
@@ -19,5 +19,5 @@ title: Monitoring
 
 11
 : Detecting Emergent Behavior
-  : [🗂️ slides](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing)
+  : [🗂️ slides](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing), [📝 questions](https://www.overleaf.com/read/mfwgrcvtxqhx), [💻 coding assignment](https://drive.google.com/file/d/1pqOiDUnodSxhxXNetltSPxhiYJf2cjFp/view?usp=sharing)
 : emergent capabilities, instrumental convergence, Goodhart’s law, proxy gaming
