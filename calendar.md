@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Calendar
+title: Schedule
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Schedule
+Legend: 🎥 lecture recording, 🖥 slides, 📝 written questions, ⌨️ coding assignment.
 
 {% for module in site.modules %}
 {{ module }}
