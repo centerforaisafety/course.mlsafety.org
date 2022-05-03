@@ -89,8 +89,9 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [How Complex Systems Fail](https://how.complexsystems.fail/)
 
+## Robustness
 
-## Adversarial Robustness
+### Adversarial Robustness
 
 - _[Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)_
 
@@ -122,7 +123,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 
-## Long Tails and Distribution Shift
+### Long Tails and Distribution Shift
 
 - _[The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241)_
 
