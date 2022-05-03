@@ -55,8 +55,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - _Introduction to STAMP ([video](https://www.youtube.com/watch?v=_ptmjAbacMk), [slides](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf))_
 
-- [Designing for safety, Consequence assessment, Safety models and accident models](https://risk-engineering.org/safe-design/)
-- [https://risk-engineering.org/consequence-assessment/](https://risk-engineering.org/safety-models/)
+- [Safe Design](https://risk-engineering.org/safe-design/), [Consequence assessment](https://risk-engineering.org/consequence-assessment/), [Safety models](https://risk-engineering.org/safety-models/)
 
 - [A Brief History of Generative Models for Power Law and Lognormal Distributions](https://www.stat.berkeley.edu/~aldous/Networks/1089229510.pdf)
 
