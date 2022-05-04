@@ -19,5 +19,5 @@ title: Additional Existential Risk Discussion
 
 20
 : Review and Conclusion
-  : [🖥️](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing), [📝](https://www.overleaf.com/read/mfwgrcvtxqhx)
+  : [🖥️](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing)
 : reliability and alignment, pillars of ML safety research
