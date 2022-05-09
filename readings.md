@@ -96,7 +96,11 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - _[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)_
 
+- [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125)
+
 - [Data Augmentation Can Improve Robustness](https://arxiv.org/abs/2111.05328)
+
+- [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
 
 - [Gradient-based Adversarial Attacks against Text
   Transformers](https://arxiv.org/abs/2104.13733)
