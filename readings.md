@@ -160,7 +160,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
 
-### Calibration and Representative Uncertainty
+### Interpretable Uncertainty
 
 - _[On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)_
 
@@ -171,6 +171,26 @@ _Italicized_ resources are required, and other resources are suggested.
 - [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
 
 - [Posterior calibration and exploratory analysis for natural language processing models](https://arxiv.org/abs/1508.05154)
+
+### Transparency
+
+- _[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)_
+
+- [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
+
+- [Locating and Editing Factual Knowledge in GPT](https://arxiv.org/abs/2202.05262)
+
+- [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
+
+- [Feature Visualizations](https://distill.pub/2017/feature-visualization/) and [OpenAI Microscope](https://microscope.openai.com/)
+
+- [Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization](https://arxiv.org/abs/2010.12606)
+
+- [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/abs/1704.05796)
+
+- [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://arxiv.org/abs/1811.10154)
+
+- [Convergent Learning: Do different neural networks learn the same representations?](https://arxiv.org/abs/1511.07543)
 
 ### Trojans
 
