@@ -192,6 +192,8 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Convergent Learning: Do different neural networks learn the same representations?](https://arxiv.org/abs/1511.07543)
 
+- [Neuron Shapley: Discovering the Responsible Neurons](https://proceedings.neurips.cc/paper/2020/file/41c542dfe6e4fc3deb251d64cf6ed2e4-Paper.pdf)
+ 
 ### Trojans
 
 - _[Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)_
