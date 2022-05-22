@@ -178,6 +178,8 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
 
+- [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/abs/1704.03296)
+
 - [Locating and Editing Factual Knowledge in GPT](https://arxiv.org/abs/2202.05262)
 
 - [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
@@ -191,8 +193,6 @@ _Italicized_ resources are required, and other resources are suggested.
 - [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://arxiv.org/abs/1811.10154)
 
 - [Convergent Learning: Do different neural networks learn the same representations?](https://arxiv.org/abs/1511.07543)
-
-- [Neuron Shapley: Discovering the Responsible Neurons](https://proceedings.neurips.cc/paper/2020/file/41c542dfe6e4fc3deb251d64cf6ed2e4-Paper.pdf)
  
 ### Trojans
 
