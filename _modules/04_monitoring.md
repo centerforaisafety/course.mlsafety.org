@@ -14,7 +14,7 @@ title: Monitoring
 
 10
 : Transparency
-  : [🖥️]([todo](https://docs.google.com/presentation/d/1kxgJw31-rH2sZ7z7T9OnaF9YNg9G5t1I1cU1f9UUUe4/edit?usp=sharing))
+  : [🖥️](https://docs.google.com/presentation/d/1kxgJw31-rH2sZ7z7T9OnaF9YNg9G5t1I1cU1f9UUUe4/edit?usp=sharing)
 : feature attribution, feature visualizations
 
 11
