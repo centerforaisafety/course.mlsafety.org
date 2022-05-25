@@ -102,9 +102,12 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
 
+- [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984) ([GitHub](https://github.com/chbrian/awesome-adversarial-examples-dl))
+
 - [Gradient-based Adversarial Attacks against Text
   Transformers](https://arxiv.org/abs/2104.13733)
-  ([GitHub](https://github.com/chbrian/awesome-adversarial-examples-dl))
+
+- [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
 
 - [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536)
 
@@ -121,8 +124,6 @@ _Italicized_ resources are required, and other resources are suggested.
 - [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
 
 - [Certified Defenses against Adversarial Examples](https://arxiv.org/abs/1801.09344)
-
-- [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
 
 - [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 
