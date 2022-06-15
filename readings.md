@@ -173,6 +173,8 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Posterior calibration and exploratory analysis for natural language processing models](https://arxiv.org/abs/1508.05154)
 
+- [Accurate Uncertainties for Deep Learning Using Calibrated Regression](https://arxiv.org/abs/1807.00263)
+
 ### Transparency
 
 - _[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)_
@@ -229,7 +231,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ### Power-Seeking
 
-<!--<upcoming power-averseness paper>-->
+<!--<upcoming power aversion paper>-->
 
 - [Optimal Policies Tend to Seek Power](https://arxiv.org/abs/1912.01683)
 
@@ -272,10 +274,13 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions](https://arxiv.org/pdf/2108.09293.pdf?nylayout=pc)
 
+### Cooperative AI
+
+- [Open Problems in Cooperative AI](https://arxiv.org/abs/2012.08630)
 
 ## X-Risk
 
-- _[X-Risk Analysis for AI Research](https://drive.google.com/file/d/1kUroMFoGc7Zym3ce01EaRu2uysyRFJhx/view?usp=sharing)_
+- _[X-Risk Analysis for AI Research]([https://drive.google.com/file/d/1kUroMFoGc7Zym3ce01EaRu2uysyRFJhx/view?usp=sharing](https://arxiv.org/abs/2206.05862))_
 
 - _[Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)_
 
