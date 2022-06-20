@@ -20,6 +20,6 @@ This is a topics course in machine learning, so a solid background in Machine Le
 1. **Hazard Analysis**: Risk Decomposition, A Systems View of Safety, Black Swans
 2. **Robustness**: Adversaries, Long Tails
 3. **Monitoring**: Anomalies, Interpretable Uncertainty, Transparency, Trojans, Emergent Behavior
-4. **Alignment**: Honesty, Power Aversion, Value Learning, Machine Ethics
+4. **Alignment**: Honesty, Value Learning, Machine Ethics, Intrasystem Goals
 5. **Systemic Safety**: ML for Improved Epistemics, ML for Improved Cyberdefense, Cooperative AI
 6. **Additional X-Risk Discussion**: Future Scenarios, Avoiding Capabilities Externalities
