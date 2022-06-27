@@ -276,12 +276,16 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ### Cooperative AI
 
+- [Uehiro Lectures 2022](https://www.practicalethics.ox.ac.uk/uehiro-lectures-2022)
+
 - [Open Problems in Cooperative AI](https://arxiv.org/abs/2012.08630)
 
 ## X-Risk
 
 - _[X-Risk Analysis for AI Research]([https://drive.google.com/file/d/1kUroMFoGc7Zym3ce01EaRu2uysyRFJhx/view?usp=sharing](https://arxiv.org/abs/2206.05862))_
 
-- _[Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)_
+- [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)
 
-- _[What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)_
+- [What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)
+
+- [X-Risk Motivations for Safety Research Directions](https://docs.google.com/document/d/1PXwjSbh-g1U1JEXhf55C7YsqD5qKNdBPQGgQ7W0Zm1A/edit?usp=sharing)
