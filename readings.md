@@ -280,9 +280,11 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Open Problems in Cooperative AI](https://arxiv.org/abs/2012.08630)
 
+- [Cooperation, Conflict, and Transformative Artificial Intelligence: A Research Agenda](https://longtermrisk.org/files/Cooperation-Conflict-and-Transformative-Artificial-Intelligence-A-Research-Agenda.pdf)
+
 ## X-Risk
 
-- _[X-Risk Analysis for AI Research]([https://drive.google.com/file/d/1kUroMFoGc7Zym3ce01EaRu2uysyRFJhx/view?usp=sharing](https://arxiv.org/abs/2206.05862))_
+- _[X-Risk Analysis for AI Research](https://arxiv.org/abs/2206.05862)_
 
 - [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)
 
