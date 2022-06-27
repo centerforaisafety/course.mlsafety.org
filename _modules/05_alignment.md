@@ -8,7 +8,7 @@ title: Alignment
 : truthful vs. honest, inverse scaling, instances of model dishonesty
 
 14
-: Power Aversion
+: Intrasystem Goals or Power Aversion
   : [🖥️]()
 : in preparation
 
