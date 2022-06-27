@@ -14,5 +14,5 @@ title: Systemic Safety
 
 18
 : Cooperative AI
-  : [🖥️]()
-: in preparation
+  : [🖥️](https://docs.google.com/presentation/d/1d5dryLUmW2bqQaCak4PxOPD3gqk2qeeW2ZwAB74ixhQ/edit?usp=sharing)
+: nash equilibria, dominant strategies, stag hunt, Pareto improvements, cooperation mechanisms, morality as cooperation, cooperative dispositions, collusion externalities
