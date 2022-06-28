@@ -233,9 +233,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 <!--<upcoming power aversion paper>-->
 
-- [Optimal Policies Tend to Seek Power](https://arxiv.org/abs/1912.01683)
-
-- [Is power-seeking AI an existential risk?](https://docs.google.com/document/d/1smaI1lagHHcrhoi6ohdq3TYIZv0eNWWZMPEy8C8byYg/edit#)
+- [Is power-seeking AI an existential risk?](https://arxiv.org/abs/2206.13353)
 
 ### Honest AI
 
