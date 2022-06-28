@@ -10,7 +10,7 @@ title: Additional Existential Risk Discussion
 20
 : Possible Existential Hazards
   : [🖥️](https://docs.google.com/presentation/d/1tp65f22ZhWoKdie6VNrh2nY1dWLoK_0WXSSXzdBYLt4/edit?usp=sharing)
-: weaponization, proxy misspecification, treacherous turn, deceptive alignment, value lock-in, persuasive AI
+: weaponization, proxy gaming, treacherous turn, deceptive alignment, value lock-in, persuasive AI
 
 21
 : Safety-Capabilities Balance
@@ -20,4 +20,4 @@ title: Additional Existential Risk Discussion
 22
 : Review and Conclusion
   : [🖥️](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing)
-: reliability and alignment, pillars of ML safety research
+: pillars of ML safety research, task-train-deploy pipeline
