@@ -10,7 +10,7 @@ title: Monitoring
 9
 : Interpretable Uncertainty
   : [🖥️](https://docs.google.com/presentation/d/1GHKlv-9UmQdUPracBr09AC2rFZp_GQyJzSQrvSWFjPM/edit?usp=sharing)
-: Brier score, RMS calibration error, reliability diagrams, confidence intervals
+: calibration vs sharpness, proper scoring rules, Brier score, RMS calibration error, reliability diagrams, confidence intervals, quantile prediction
 
 10
 : Transparency
