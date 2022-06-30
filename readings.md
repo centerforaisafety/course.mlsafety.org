@@ -264,6 +264,8 @@ _Italicized_ resources are required, and other resources are suggested.
 ### Forecasting
 <!--<upcoming paper>-->
 
+- [On Single Point Forecasts for Fat-Tailed Variables](https://arxiv.org/abs/2007.16096)
+
 - [On the Difference between Binary Prediction and True Exposure With Implications For Forecasting Tournaments and Decision Making Research](https://www.stat.berkeley.edu/~aldous/157/Papers/taleb_tetlock.pdf)
 
 - [Superforecasting -- Philip Tetlock](https://youtu.be/pedNak4S9IE?t=440)
