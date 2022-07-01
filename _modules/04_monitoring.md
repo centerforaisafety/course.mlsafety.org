@@ -5,7 +5,7 @@ title: Monitoring
 8
 : Anomaly Detection
     : [🖥️](https://docs.google.com/presentation/d/1WEzSFUbcl1Rp4kQq1K4uONMJHBAUWhCZTzWVHnLcSV8/edit?usp=sharing), [⌨️](https://drive.google.com/drive/folders/1mbuH1heBpxk75oYvGlfiTWRqLHbIgT8V?usp=sharing)
-: AUROC/AUPR/FPR95, likelihoods and detection, MSP baseline, OE, ViM, anomaly datasets, one-class learning, detecting adversaries
+: AUROC/AUPR/FPR95, likelihoods and detection, MSP baseline, OE, ViM, anomaly datasets, one-class learning, detecting adversaries, error detection
 
 9
 : Interpretable Uncertainty
