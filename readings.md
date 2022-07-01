@@ -262,7 +262,7 @@ _Italicized_ resources are required, and other resources are suggested.
 ## Systemic Safety
 
 ### Forecasting
-<!--<upcoming paper>-->
+- [Forecasting Future World Events with Neural Networks](https://arxiv.org/abs/2206.15474)
 
 - [On Single Point Forecasts for Fat-Tailed Variables](https://arxiv.org/abs/2007.16096)
 
