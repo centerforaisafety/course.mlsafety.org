@@ -19,5 +19,5 @@ title: Additional Existential Risk Discussion
 
 22
 : Review and Conclusion
-  : [🖥️](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing)
+  : [🖥️](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing), [📝](https://drive.google.com/file/d/1bKAyPeWSz4_jr3vdm2rHKrWu_xe-CNv_/view?usp=sharing)
 : pillars of ML safety research, task-train-deploy pipeline
