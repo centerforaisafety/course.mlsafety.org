@@ -8,6 +8,13 @@
 @import 'staffer';
 
 // Overrides
+svg { 
+  color: #1772C9 !important
+}
+
+anchor-heading {
+  color: #1772C9
+}
 a abbr[title] {
   border-bottom: none;
 }
@@ -66,6 +73,9 @@ summary {
     overflow-wrap: anywhere;
     white-space: normal;
     color: #1772C9
+  }
+  a:hover {
+    text-decoration-color: #1772C9 !important;
   }
 
   dl {
@@ -141,5 +151,9 @@ summary {
 
 .nav-list-link-active {
   color: #1772C9
+}
+
+.selection {
+  background: #1772C9
 }
 
