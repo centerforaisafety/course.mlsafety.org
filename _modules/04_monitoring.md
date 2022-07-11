@@ -19,7 +19,7 @@ title: Monitoring
 
 11
 : Trojans
-  : [🖥️](https://docs.google.com/presentation/d/1Nu5WwLQ7CDk_DotP_ET98F2F-2KBp9W8lkAfuCbeZ7E/edit?usp=sharing), [⌨️](https://drive.google.com/file/d/1pqOiDUnodSxhxXNetltSPxhiYJf2cjFp/view?usp=sharing)
+  : [🖥️](https://docs.google.com/presentation/d/1Nu5WwLQ7CDk_DotP_ET98F2F-2KBp9W8lkAfuCbeZ7E/edit?usp=sharing), [⌨️](https://colab.research.google.com/drive/1gK943aicv8QrElCBIZPz2CNdtdH1dpA2?copy)
 : hidden functionality from poisoning, treacherous turns
 
 12
