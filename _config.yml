@@ -30,8 +30,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  ML Safety Newsletter:
-    - "https://newsletter.mlsafety.org"
+  ML Safety Community:
+    - "https://mlsafety.org"
 footer_content:
 
 # Collections for website data
