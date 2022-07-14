@@ -14,5 +14,5 @@ title: Alignment
 
 15
 : Machine Ethics
-  : [🖥️](https://docs.google.com/presentation/d/1yibQ-RBSMnejAdEk8iMTTzYyTFmMiRasOLwdvvahZkE/edit?usp=sharing), [⌨️](https://colab.research.google.com/drive/1mKxe1CBVNhmacM-bIM7Fh1QpP3_hyzjE?usp=sharing)
+  : [🖥️](https://docs.google.com/presentation/d/1yibQ-RBSMnejAdEk8iMTTzYyTFmMiRasOLwdvvahZkE/edit?usp=sharing), [⌨️](https://colab.research.google.com/drive/1RJabhcBelfXcXHkur2sjM_7oQUyIDirr?usp=sharing)
 : normative ethics background, human values, value learning with comparisons, translating moral knowledge into action, value lock-in, safelife, attainable utility preservation
