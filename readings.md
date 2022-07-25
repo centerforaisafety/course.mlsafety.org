@@ -107,8 +107,6 @@ _Italicized_ resources are required, and other resources are suggested.
 - [Gradient-based Adversarial Attacks against Text
   Transformers](https://arxiv.org/abs/2104.13733)
 
-- [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
-
 - [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536)
 
 - [Reliable evaluation of adversarial robustness with an ensemble of diverse
