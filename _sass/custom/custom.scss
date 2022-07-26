@@ -160,3 +160,32 @@ summary {
 ::selection {
   background: #1772C9
 }
+
+
+.popup {
+    position:fixed;
+    z-index:50;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 1200px;
+    height: 666px;
+    visibility:hidden;
+}
+
+.fader {
+  background-color:rgba(0,0,0,0.7);
+  position:fixed;
+  width:100%;
+  height:100%;
+  display: flex;
+  z-index:49;
+  opacity:0;
+  transition:.3s ease;
+  visibility:hidden;
+}
+
+.show {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
