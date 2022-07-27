@@ -8,9 +8,9 @@ title: Alignment
 : truthful vs. honest, inverse scaling, instances of model dishonesty
 
 14
-: Intrasystem Goals or Power Aversion
+: Power Aversion
   : [🛝]()
-: in preparation
+: TBC fall 2022
 
 15
 : Machine Ethics
