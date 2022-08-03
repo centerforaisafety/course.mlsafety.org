@@ -1,5 +1,6 @@
 ---
 title: Hazard Analysis
+questions: https://drive.google.com/file/d/17hybWUxiVfdo7qFmvnfvfaLLS9Z43LtX/view?usp=sharing
 ---
 3
 : Risk Decomposition
@@ -13,5 +14,5 @@ title: Hazard Analysis
 
 5
 : Black Swans
-  : [🎥](#media-popup){:class="youtube" media-id="aX1OPczTxf4"}, [🛝](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing), [📖](), [📝](https://drive.google.com/file/d/17hybWUxiVfdo7qFmvnfvfaLLS9Z43LtX/view?usp=sharing)
+  : [🎥](#media-popup){:class="youtube" media-id="aX1OPczTxf4"}, [🛝](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing), [📖](), 
 : unknown unknowns, long tailed distributions, multiplicative processes, extremistan

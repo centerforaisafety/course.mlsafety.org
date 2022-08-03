@@ -1,5 +1,6 @@
 ---
 title: Robustness
+questions: https://drive.google.com/file/d/1lgnLhs10umc2pJBsTKZdEC4OqzIOllK4/view?usp=sharing
 ---
 
 6
@@ -9,5 +10,5 @@ title: Robustness
 
 7
 : Black Swan Robustness
-  : [🎥](#media-popup){:class="youtube" media-id="9mEp0mk0mpA"}, [🛝️](https://docs.google.com/presentation/d/1uW7hNstJAq7_lSyk3yP8yTSjN85itESbDHFRi1F4wiw/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Black%20Swan%20Robustness/main.md), [📝](https://drive.google.com/file/d/1lgnLhs10umc2pJBsTKZdEC4OqzIOllK4/view?usp=sharing)
+  : [🎥](#media-popup){:class="youtube" media-id="9mEp0mk0mpA"}, [🛝️](https://docs.google.com/presentation/d/1uW7hNstJAq7_lSyk3yP8yTSjN85itESbDHFRi1F4wiw/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Black%20Swan%20Robustness/main.md)
 : stress tests, train-test mismatch, adversarial distribution shifts, simulated scenarios for robustness
