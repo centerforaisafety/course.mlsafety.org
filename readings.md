@@ -47,7 +47,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ## Risk Analysis
 
-- _[Power laws, Pareto distributions and Zipf’s law](http://tuvalu.santafe.edu/~aaronc/courses/5352/readings/Newman_05_PowerLawsParetoDistributionsAndZipfsLaw.pdf)_
+- _[Power laws, Pareto distributions and Zipf’s law](https://arxiv.org/pdf/cond-mat/0412004.pdf)_
 
 - _[What is a Complex System?](https://www.youtube.com/watch?v=vp8v2Udd_PM)_
 
