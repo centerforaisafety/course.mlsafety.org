@@ -168,8 +168,10 @@ summary {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 1200px;
-    height: 666px;
+    // width: 1200px;
+    // height: 666px;
+    aspect-ratio: 1.8;
+    height: 70vh;
     visibility:hidden;
 }
 
