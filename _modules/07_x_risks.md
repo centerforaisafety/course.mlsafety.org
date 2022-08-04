@@ -18,9 +18,9 @@ title: Additional Existential Risk Discussion
 : theories of impact, differential technological progress, capabilities externalities
 
 22
-: Challenges in Human-AI Coevolution
+: Risks from Human-AI Coevolution
   : [🛝](), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
-: TBC Fall 2022
+: TBC Fall 2022; selection pressures, pressure for information propagation, internal constraints, mesa optimization, objective selection pressures, Leviathan, symbiosis
 
 23
 : Review and Conclusion
