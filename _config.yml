@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Intro to ML Safety 
+title: Intro to ML Safety
 tagline: ML Safety
 description: An advanced course covering empirical directions to reduce AI x-risk
 author: Dan Hendrycks
@@ -32,7 +32,6 @@ permalink: pretty
 aux_links:
   ML Safety Community:
     - "https://mlsafety.org"
-footer_content:
 
 # Collections for website data
 collections:
