@@ -3,7 +3,7 @@ title: Additional Existential Risk Discussion
 ---
 
 19
-: X-Risk
+: X-Risk Overview
     : [🛝](https://docs.google.com/presentation/d/19IuBw7GsO6MEeOQIAbY6imDnWLSLT4Fzk2PAW6xq_gA/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : arguments for x-risk
 
@@ -18,6 +18,11 @@ title: Additional Existential Risk Discussion
 : theories of impact, differential technological progress, capabilities externalities
 
 22
+: Challenges in Human-AI Coevolution
+  : [🛝](), [📝]()
+: TBC Fall 2022
+
+23
 : Review and Conclusion
   : [🛝](https://docs.google.com/presentation/d/1EL9ogIdzapL8_tZMMTw0CfhusRmHtnqA9uh3Wcoutj4/edit?usp=sharing), [📝](https://drive.google.com/file/d/1bKAyPeWSz4_jr3vdm2rHKrWu_xe-CNv_/view?usp=sharing)
 : pillars of ML safety research, task-train-deploy pipeline
