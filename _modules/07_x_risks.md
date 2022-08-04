@@ -19,7 +19,7 @@ title: Additional Existential Risk Discussion
 
 22
 : Challenges in Human-AI Coevolution
-  : [🛝](), [📝]()
+  : [🛝](), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : TBC Fall 2022
 
 23
