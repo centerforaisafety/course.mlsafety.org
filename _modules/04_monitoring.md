@@ -1,6 +1,5 @@
 ---
 title: Monitoring
-questions: https://drive.google.com/file/d/1J1PsYxmWLfVD7nyACDV-vEpmTsq_fq8j/view?usp=sharing
 ---
 
 8
@@ -27,3 +26,6 @@ questions: https://drive.google.com/file/d/1J1PsYxmWLfVD7nyACDV-vEpmTsq_fq8j/vie
 : Detecting Emergent Behavior
   : [🎥](#media-popup){:class="youtube" media-id="_4qrAck4q18"}, [🛝](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : emergent capabilities, instrumental convergence, Goodhart’s law, proxy gaming
+
+13
+: [Review questions 📝](https://drive.google.com/file/d/1J1PsYxmWLfVD7nyACDV-vEpmTsq_fq8j/view?usp=sharing)

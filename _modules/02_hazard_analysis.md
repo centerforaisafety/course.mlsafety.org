@@ -1,6 +1,5 @@
 ---
 title: Hazard Analysis 
-questions: https://drive.google.com/file/d/17hybWUxiVfdo7qFmvnfvfaLLS9Z43LtX/view?usp=sharing
 ---
 3
 : Risk Decomposition
@@ -16,3 +15,6 @@ questions: https://drive.google.com/file/d/17hybWUxiVfdo7qFmvnfvfaLLS9Z43LtX/vie
 : Black Swans
   : [🎥](#media-popup){:class="youtube" media-id="aX1OPczTxf4"}, [🛝](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : unknown unknowns, long tailed distributions, multiplicative processes, extremistan
+
+►
+: [Review questions 📝](https://drive.google.com/file/d/17hybWUxiVfdo7qFmvnfvfaLLS9Z43LtX/view?usp=sharing)
