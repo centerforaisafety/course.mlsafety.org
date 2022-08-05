@@ -2,7 +2,7 @@
 layout: home
 title: About
 nav_exclude: false
-permalink: index.html
+permalink: about
 seo:
   type: Course
   name: Introduction to ML Safety
