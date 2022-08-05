@@ -20,7 +20,7 @@ title: Additional Existential Risk Discussion
 22
 : Risks from Human-AI Coevolution
   : [🛝](), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
-: TBC Fall 2022; selection pressures, pressure for information propagation, internal constraints, mesa optimization, objective selection pressures, Leviathan, symbiosis
+: TBC Fall 2022; selection pressures, pressure for information proliferation, pressures towards multiple AIs, internal constraints, mesa optimization, implicit and developmental bias, objective selection pressures, reverse dominance hierarchies, aligning groups, thwarting natural selection
 
 23
 : Review and Conclusion
