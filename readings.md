@@ -225,6 +225,8 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [The Off-Switch Game](https://arxiv.org/abs/1611.08219)
 
+- [Goal Misgeneralization in Deep Reinforcement Learning](https://arxiv.org/abs/2105.14111)
+
 ## Alignment
 
 ### Power-Seeking
