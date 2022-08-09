@@ -15,6 +15,8 @@ $(document).ready(function () {
         
         $(".fader").removeClass("show");
         $(".popup").removeClass("show");
+        var $popupIframe = $(this).find("iframe")
+        $popupIframe.attr("src", "")
     });
 });
 
