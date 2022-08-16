@@ -18,9 +18,9 @@ title: Additional Existential Risk Discussion
 : theories of impact, differential technological progress, capabilities externalities
 
 22
-: Risks from Human-AI Coevolution
+: Natural Selection Favors AIs over Humans
   : [🛝](), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
-: TBC Fall 2022; selection pressures, pressure for information proliferation, pressures towards multiple AIs, internal constraints, mesa optimization, implicit and developmental bias, objective selection pressures, reverse dominance hierarchies, aligning groups, thwarting natural selection
+: TBC Fall 2022; fitness comparisons, Lewontin's conditions, multiple agents and variation, generalized Darwinism, artificial vs natural selection, evolutionary mechanisms for altruism, internal constraints, incentives, Leviathan
 
 23
 : Review and Conclusion
