@@ -4,7 +4,7 @@ title: Monitoring
 
 8
 : Anomaly Detection
-    : [🎥](#media-popup){:class="youtube" media-id="344sNPH-cSE"}, [🛝️](https://docs.google.com/presentation/d/1WEzSFUbcl1Rp4kQq1K4uONMJHBAUWhCZTzWVHnLcSV8/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Anomaly%20Detection/main.md), [⌨️](https://drive.google.com/drive/folders/1mbuH1heBpxk75oYvGlfiTWRqLHbIgT8V?usp=sharing)
+    : [🎥](#media-popup){:class="youtube" media-id="344sNPH-cSE"}, [🛝️](https://docs.google.com/presentation/d/1WEzSFUbcl1Rp4kQq1K4uONMJHBAUWhCZTzWVHnLcSV8/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Anomaly%20Detection/main.md), [⌨️](https://colab.research.google.com/drive/1oj0HjykyAO9-oC2cJ1KZXPBavEfJ6k14?usp=sharing)
 : AUROC/AUPR/FPR95, likelihoods and detection, MSP baseline, OE, ViM, anomaly datasets, one-class learning, detecting adversaries, error detection
 
 9
