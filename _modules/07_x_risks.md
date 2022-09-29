@@ -19,7 +19,7 @@ title: Additional Existential Risk Discussion
 
 22
 : Natural Selection Favors AIs over Humans
-  : [🛝](), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
+  : [🛝](https://docs.google.com/presentation/d/1asx5L-tEk5mZTxvO2xzty_YII8fUy7XNgv6Fh55IUBM/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : TBC Fall 2022; fitness comparisons, Lewontin's conditions, multiple agents and variation, generalized Darwinism, artificial vs natural selection, evolutionary mechanisms for altruism, internal constraints, incentives, Leviathan
 
 23
