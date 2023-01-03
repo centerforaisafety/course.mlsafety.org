@@ -1,19 +1,20 @@
 ---
-title: Hazard Analysis 
+title: Hazard Analysis
 ---
+
 3
 : Risk Decomposition
-    : [🎥](#media-popup){:class="youtube" media-id="fNFIdS1rGq8"}, [🛝️](https://docs.google.com/presentation/d/1RMZ89VHzVnDhugcrrwvHQnRIw366dMr3JYFC3rkxjL0/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
+: [🎥](#media-popup){:class="youtube" media-id="fNFIdS1rGq8"}, [🖥️️](https://docs.google.com/presentation/d/1RMZ89VHzVnDhugcrrwvHQnRIw366dMr3JYFC3rkxjL0/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : risk analysis definitions, disaster risk equation, decomposition of safety areas, ability to cope and existential risk
 
 4
 : Accident Models
-  : [🎥](#media-popup){:class="youtube" media-id="Ic_qDqYEJcA"}, [🛝](https://docs.google.com/presentation/d/1HquuLs0OTVYvuk0QRCG_6aqWhmMEf7sDBFLvRaEAZL4/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
+: [🎥](#media-popup){:class="youtube" media-id="Ic_qDqYEJcA"}, [🖥️](https://docs.google.com/presentation/d/1HquuLs0OTVYvuk0QRCG_6aqWhmMEf7sDBFLvRaEAZL4/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : FMEA, Bow Tie model, Swiss Cheese model, defense in depth, preventative and protective measures, complex systems, nonlinear causality, emergence, STAMP
 
 5
 : Black Swans
-  : [🎥](#media-popup){:class="youtube" media-id="aX1OPczTxf4"}, [🛝](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
+: [🎥](#media-popup){:class="youtube" media-id="aX1OPczTxf4"}, [🖥️](https://docs.google.com/presentation/d/1rDWQuwdqFPm1ebqnuM9x_H-2ZYGehj6kSp_5LOi6q5E/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
 : unknown unknowns, long tailed distributions, multiplicative processes, extremistan
 
 ►
