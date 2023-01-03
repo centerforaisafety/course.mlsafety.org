@@ -9,7 +9,7 @@ title: Systemic Safety
 
 17
 : ML for Cyberdefense
-: [🎥](#media-popup){:class="youtube" media-id="OiPuGPUJpXQ"}, [🖥️](https://docs.google.com/presentation/d/169h2BwK8U7CvPPYiCMEww3NxvpdKEP-Aes_iE5PS6pA/edit?usp=sharing),
+: [🎥](#media-popup){:class="youtube" media-id="OiPuGPUJpXQ"}, [🖥️](https://docs.google.com/presentation/d/169h2BwK8U7CvPPYiCMEww3NxvpdKEP-Aes_iE5PS6pA/edit?usp=sharing)
 : intrusion detection, detecting malicious programs, automated patching, fuzzing
 
 18

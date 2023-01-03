@@ -14,7 +14,7 @@ title: Monitoring
 
 10
 : Transparency
-: [🎥](#media-popup){:class="youtube" media-id="cqMe9E4p7fE"}, [🖥️](https://docs.google.com/presentation/d/1kxgJw31-rH2sZ7z7T9OnaF9YNg9G5t1I1cU1f9UUUe4/edit?usp=sharing),
+: [🎥](#media-popup){:class="youtube" media-id="cqMe9E4p7fE"}, [🖥️](https://docs.google.com/presentation/d/1kxgJw31-rH2sZ7z7T9OnaF9YNg9G5t1I1cU1f9UUUe4/edit?usp=sharing)
 : saliency maps, token heatmaps, feature visualizations, ProtoPNet
 
 11
