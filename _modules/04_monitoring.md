@@ -14,17 +14,17 @@ title: Monitoring
 
 10
 : Transparency
-: [🎥](#media-popup){:class="youtube" media-id="cqMe9E4p7fE"}, [🖥️](https://docs.google.com/presentation/d/1kxgJw31-rH2sZ7z7T9OnaF9YNg9G5t1I1cU1f9UUUe4/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
+: [🎥](#media-popup){:class="youtube" media-id="cqMe9E4p7fE"}, [🖥️](https://docs.google.com/presentation/d/1kxgJw31-rH2sZ7z7T9OnaF9YNg9G5t1I1cU1f9UUUe4/edit?usp=sharing),
 : saliency maps, token heatmaps, feature visualizations, ProtoPNet
 
 11
 : Trojans
-: [🎥](#media-popup){:class="youtube" media-id="KnA_aTQ9upU"}, [🖥️](https://docs.google.com/presentation/d/1Nu5WwLQ7CDk_DotP_ET98F2F-2KBp9W8lkAfuCbeZ7E/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety), [⌨️](https://colab.research.google.com/drive/1gK943aicv8QrElCBIZPz2CNdtdH1dpA2?copy)
+: [🎥](#media-popup){:class="youtube" media-id="KnA_aTQ9upU"}, [🖥️](https://docs.google.com/presentation/d/1Nu5WwLQ7CDk_DotP_ET98F2F-2KBp9W8lkAfuCbeZ7E/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Trojans/trojans.md), [⌨️](https://colab.research.google.com/drive/1gK943aicv8QrElCBIZPz2CNdtdH1dpA2?copy)
 : hidden functionality from poisoning, treacherous turns
 
 12
 : Detecting Emergent Behavior
-: [🎥](#media-popup){:class="youtube" media-id="\_4qrAck4q18"}, [🖥️](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety)
+: [🎥](#media-popup){:class="youtube" media-id="\_4qrAck4q18"}, [🖥️](https://docs.google.com/presentation/d/1MGz_eMPQNm5Ov52IZz2vTuTL9IRoABV2tn_MFVrxlQI/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Detecting%20Emergent%20Behaviour/main.md)
 : emergent capabilities, instrumental convergence, Goodhart’s law, proxy gaming
 
 13
