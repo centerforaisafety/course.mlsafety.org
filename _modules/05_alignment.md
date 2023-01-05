@@ -10,7 +10,7 @@ title: Alignment
 14
 : Power Aversion
 : [🖥️]()
-: TBC fall 2022
+: TBC early 2023; social, economic, and governmental formalizations of power bases; power penalties
 
 15
 : Machine Ethics
