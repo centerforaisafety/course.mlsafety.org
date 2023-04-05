@@ -291,3 +291,5 @@ _Italicized_ resources are required, and other resources are suggested.
 - [What happens when our computers get smarter than we are?](https://www.youtube.com/watch?v=MnT1xgZgkpk)
 
 - [X-Risk Motivations for Safety Research Directions](https://docs.google.com/document/d/1PXwjSbh-g1U1JEXhf55C7YsqD5qKNdBPQGgQ7W0Zm1A/edit?usp=sharing)
+
+- [Natural Selection Favors AIs over Humans](https://arxiv.org/abs/2303.16200)
