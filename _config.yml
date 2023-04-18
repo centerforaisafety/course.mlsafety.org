@@ -36,6 +36,7 @@ aux_links:
 # Collections for website data
 collections:
   staffers:
+  # lectures:
   modules:
   schedules:
   announcements:
@@ -52,6 +53,11 @@ defaults:
       type: modules
     values:
       layout: module
+  # - scope:
+  #     path: ""
+  #     type: lectures
+  #   values:
+  #     layout: lecture
   - scope:
       path: ""
       type: schedules
