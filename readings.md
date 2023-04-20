@@ -233,7 +233,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 <!--<upcoming power aversion paper>-->
 
-- [Is power-seeking AI an existential risk?](https://arxiv.org/abs/2206.13353)
+- [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf)
 
 ### Honest AI
 
