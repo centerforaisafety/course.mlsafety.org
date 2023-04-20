@@ -234,6 +234,7 @@ _Italicized_ resources are required, and other resources are suggested.
 <!--<upcoming power aversion paper>-->
 
 - [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf)
+- [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/pdf/2304.03279.pdf)
 
 ### Honest AI
 
