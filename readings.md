@@ -231,14 +231,14 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ### Power-Seeking
 
-<!--<upcoming power aversion paper>-->
 
 - [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf)
-- [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/pdf/2304.03279.pdf)
+
+- [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/abs/2212.03827)
 
 ### Honest AI
 
-<!--<upcoming collin paper>-->
+- [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 
 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
 
@@ -246,7 +246,6 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ### Machine Ethics
 
-<!--<upcoming utility paper>-->
 
 - _[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)_
 
