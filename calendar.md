@@ -8,7 +8,7 @@ permalink: index.html
 # Schedule
 
 Legend: 🎥 lecture recording, 🖥️ slides, 📖 notes, 📝 written questions, ⌨️ coding assignment.\
-[Apply to participate in the course program](https://airtable.com/shredY1461hyCVYC6) by Jan 29th to have your assignments graded and participate in discussions and speaker events.
+[Get notified when applications open for the next semester of the course.](https://airtable.com/shruI8noZFrsgIpvD) Participate in our course to have your assignments graded and join in discussions with other students.
 
 {% for module in site.modules %}
 {{ module }}
