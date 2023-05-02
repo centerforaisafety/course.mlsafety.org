@@ -9,8 +9,8 @@ title: Alignment
 
 14
 : Power Aversion
-: [🖥️]()
-: TBC early 2023; social, economic, and governmental formalizations of power bases; power penalties
+: [🖥️](https://docs.google.com/presentation/d/1bI0WNfPg9B0LK7h5Oe6lciminrzsJv_z7anzVV1TO2E/edit?usp=sharing)
+: measuring power; the power-seeeking argument; power penalties
 
 15
 : Machine Ethics
