@@ -16,9 +16,9 @@ This is a topics course in machine learning, so a solid background in Machine Le
 
 ## Syllabus
 
-1. <a href="https://course.mlsafety.org/calendar/#hazard-analysis">**Hazard Analysis**</a>: Risk Decomposition, A Systems View of Safety, Black Swans
-2. <a href="https://course.mlsafety.org/calendar/#robustness">**Robustness**</a>: Adversaries, Long Tails
-3. <a href="https://course.mlsafety.org/calendar/#monitoring">**Monitoring**</a>: Anomalies, Interpretable Uncertainty, Transparency, Trojans, Emergent Behavior
-4. <a href="https://course.mlsafety.org/calendar/#alignment">**Alignment**</a>: Honesty, Value Learning, Machine Ethics, Intrasystem Goals
-5. <a href="https://course.mlsafety.org/calendar/#systemic-safety">**Systemic Safety**</a>: ML for Improved Epistemics, ML for Improved Cyberdefense, Cooperative AI
-6. <a href="https://course.mlsafety.org/calendar/#additional-existential-risk-discussion">**Additional X-Risk Discussion**</a>: Future Scenarios, Selection Pressures, Avoiding Capabilities Externalities
+1. <a href="https://course.mlsafety.org/index.html#safety-engineering">**Safety Engineering**</a>: Risk Decomposition, A Systems View of Safety, Black Swans
+2. <a href="https://course.mlsafety.org/index.html#robustness">**Robustness**</a>: Adversaries, Long Tails
+3. <a href="https://course.mlsafety.org/index.html#monitoring">**Monitoring**</a>: Anomalies, Interpretable Uncertainty, Transparency, Trojans, Emergent Behavior
+4. <a href="https://course.mlsafety.org/index.html#alignment">**Alignment**</a>: Honesty, Value Learning, Machine Ethics, Intrasystem Goals
+5. <a href="https://course.mlsafety.org/index.html#systemic-safety">**Systemic Safety**</a>: ML for Improved Epistemics, ML for Improved Cyberdefense, Cooperative AI
+6. <a href="https://course.mlsafety.org/index.html#additional-existential-risk-discussion">**Additional X-Risk Discussion**</a>: Future Scenarios, Selection Pressures, Avoiding Capabilities Externalities
