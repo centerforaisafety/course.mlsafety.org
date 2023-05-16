@@ -10,7 +10,7 @@ permalink: index.html
 > 
 > Intro to ML Safety is an 8-week course that runs between 12 June - 14 August.
 
-# Schedule
+# Syllabus
 
 Legend: 🎥 lecture recording, 🖥️ slides, 📖 notes, 📝 written questions, ⌨️ coding assignment.
 
