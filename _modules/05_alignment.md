@@ -14,5 +14,5 @@ title: Alignment
 
 15
 : **Machine Ethics**
-: [🎥](#media-popup){:class="youtube" media-id="FeX3gOV7Tj0"}, [🖥️](https://docs.google.com/presentation/d/1yibQ-RBSMnejAdEk8iMTTzYyTFmMiRasOLwdvvahZkE/edit?usp=sharing), [⌨️](https://colab.research.google.com/drive/1WyzvZR9Vd3R1QiJpKnYgnzCTp00xqnGF?usp=sharing)
+: [🎥](#media-popup){:class="youtube" media-id="FeX3gOV7Tj0"}, [🖥️](https://docs.google.com/presentation/d/1yibQ-RBSMnejAdEk8iMTTzYyTFmMiRasOLwdvvahZkE/edit?usp=sharing), [⌨️](https://colab.research.google.com/drive/1C7pQEsxbIjrRpriqPffCiQW43ffyIi2b?usp=share_link)
 : _normative ethics background, human values, value learning with comparisons, translating moral knowledge into action, moral parliament, value clarification_
