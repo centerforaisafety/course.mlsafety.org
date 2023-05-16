@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-description: Listing of course modules and topics.
+title: Syllabus
+image: /assets/meta_card_mlsafety.jpg
 permalink: index.html
 ---
 
