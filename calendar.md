@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-image: /assets/meta_card_mlsafety.jpg
+image: /assets/images/meta_card_mlsafety.jpg
 permalink: index.html
 ---
 
