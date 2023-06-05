@@ -227,7 +227,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Goal Misgeneralization in Deep Reinforcement Learning](https://arxiv.org/abs/2105.14111)
 
-## Alignment
+## Control
 
 ### Power-Seeking
 

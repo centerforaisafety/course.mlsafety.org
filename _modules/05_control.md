@@ -1,5 +1,5 @@
 ---
-title: Alignment
+title: Control
 ---
 
 13
