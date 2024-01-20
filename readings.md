@@ -47,42 +47,13 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ## Risk Analysis
 
-- _[Power laws, Pareto distributions and Zipf’s law](https://arxiv.org/pdf/cond-mat/0412004.pdf)_
+- _[Complex Systems and AI Safety](https://www.aisafetybook.com/textbook/5-1])_
 
-- _[What is a Complex System?](https://www.youtube.com/watch?v=vp8v2Udd_PM)_
+- [Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)
 
-- _[Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)_
-
-- _Introduction to STAMP ([video](https://www.youtube.com/watch?v=_ptmjAbacMk), [slides](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf))_
+- Introduction to STAMP ([video](https://www.youtube.com/watch?v=_ptmjAbacMk), [slides](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/STAMP-Tutorial.pdf))
 
 - [Safe Design](https://risk-engineering.org/safe-design/), [Consequence assessment](https://risk-engineering.org/consequence-assessment/), [Safety models](https://risk-engineering.org/safety-models/)
-
-- [A Brief History of Generative Models for Power Law and Lognormal Distributions](https://www.stat.berkeley.edu/~aldous/Networks/1089229510.pdf)
-
-- [Empirical examples of power-law CDFs](https://youtu.be/KKYhPPf4FxA?t=345)
-
-- [Log-normal distributions (with comparisons to power laws)](https://youtu.be/KiTAyRZORtQ?t=124)
-
-- [Multiplicative processes produce log normals](https://www.youtube.com/watch?v=yA1pkyanbzw)
-
-- [Multiplicative processes produce power laws](https://youtu.be/B43yhWxdi5I?t=69)
-
-- [Review of properties of power laws](https://www.youtube.com/watch?v=9Hc227Qy91k)
-
-- [Numerous power laws for cities](https://www.youtube.com/watch?v=DsL7jEQXh8I)
-
-- [The Black Swan](https://www.youtube.com/watch?v=caPy0OZmXKs) and
-  [Antifragile](https://www.youtube.com/watch?v=-MMLea-_ifw) Summaries
-
-- [The Precautionary Principle (skip second half)](https://arxiv.org/abs/1410.5787)
-
-- [Emergence (Basic)](https://www.youtube.com/watch?v=16W7c0mb-rE)
-
-- [Nonlinear Causality](https://www.youtube.com/watch?v=76JRJ90s548)
-
-- [Beyond Normal Accidents and High Reliability Organizations: The Need for an Alternative Approach to Safety in Complex Systems](http://sunnyday.mit.edu/papers/hro.pdf)
-
-- [Shortcomings of the Bow Tie and Other Safety Tools Based on Linear Causality1](http://sunnyday.mit.edu/Bow-tie-final.pdf)
 
 - [Systemantics Appendix](https://drive.google.com/file/d/1avoVTY8L3hpZi9fTxI_1mjjXC5JTz882/view?usp=sharing)
 
@@ -92,22 +63,10 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ### Adversarial Robustness
 
-- _[Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)_
+
+- _[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)_
 
 - _[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)_
-
-- [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125)
-
-- [Data Augmentation Can Improve Robustness](https://arxiv.org/abs/2111.05328)
-
-- [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)
-
-- [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984) ([GitHub](https://github.com/chbrian/awesome-adversarial-examples-dl))
-
-- [Gradient-based Adversarial Attacks against Text
-  Transformers](https://arxiv.org/abs/2104.13733)
-
-- [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536)
 
 - [Reliable evaluation of adversarial robustness with an ensemble of diverse
   parameter-free attacks](https://arxiv.org/abs/2003.01690)
@@ -117,15 +76,9 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Adversarial Examples Are a Natural Consequence of Test Error in Noise](https://arxiv.org/abs/1901.10513)
 
-- [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960)
-
-- [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
-
 - [Certified Defenses against Adversarial Examples](https://arxiv.org/abs/1801.09344)
 
 - [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
-
-- [llm-attacks.org/](https://arxiv.org/abs/2307.15043)
 
 ### Long Tails and Distribution Shift
 
@@ -177,21 +130,18 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ### Transparency
 
-- _[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)_
+- _[Representation Engineering: A Top-Down Approach to AI Transparency
+](https://arxiv.org/abs/2310.01405)_
+
+- _[In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)_
+
+- [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 
 - [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
-
-- [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/abs/1704.03296)
 
 - [Locating and Editing Factual Knowledge in GPT](https://arxiv.org/abs/2202.05262)
 
 - [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
-
-- [Feature Visualizations](https://distill.pub/2017/feature-visualization/) and [OpenAI Microscope](https://microscope.openai.com/)
-
-- [Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization](https://arxiv.org/abs/2010.12606)
-
-- [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/abs/1704.05796)
 
 - [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://arxiv.org/abs/1811.10154)
 
@@ -201,9 +151,9 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - _[Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)_
 
-- _[Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)_
+- [Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)
 
-- _[Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)_
+- [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)
 
 - [TrojAI](https://pages.nist.gov/trojai/)
 
@@ -252,7 +202,9 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - _[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)_
 
-- _[Ethics Background (Introduction through "Absolute Rights or Prima Facie Duties")](https://www.youtube.com/playlist?list=PLKtXFotbf7fOg7zbQ3565EnpzzKlYaVVI)_
+- [Normative Ethics Introduction](https://www.aisafetybook.com/textbook/7-1)
+
+- [Ethics Background (Introduction through "Absolute Rights or Prima Facie Duties")](https://www.youtube.com/playlist?list=PLKtXFotbf7fOg7zbQ3565EnpzzKlYaVVI)
 
 - [Aligning AI With Shared Human Values](https://arxiv.org/abs/2008.02275)
 
@@ -287,7 +239,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ## X-Risk
 
-- _[X-Risk Analysis for AI Research](https://arxiv.org/abs/2206.05862)_
+- [An Overview of Catastrophic AI Risks](https://arxiv.org/abs/2306.12001)
 
 - [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg)
 
