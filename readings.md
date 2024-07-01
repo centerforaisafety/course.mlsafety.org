@@ -47,7 +47,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 ## Risk Analysis
 
-- _[Complex Systems and AI Safety](https://www.aisafetybook.com/textbook/5-1])_
+- _[Complex Systems and AI Safety](https://www.aisafetybook.com/textbook/complex-systems)_
 
 - [Emergence (Intermediate)](https://www.youtube.com/watch?v=QItTWZc7hKs)
 
@@ -186,7 +186,7 @@ _Italicized_ resources are required, and other resources are suggested.
 
 - [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf)
 
-- [Do the Rewards Justify the Means?](https://arxiv.org/abs/2212.03827)
+- [Do the Rewards Justify the Means?](https://arxiv.org/abs/2304.03279)
 
 
 ### Honest AI
