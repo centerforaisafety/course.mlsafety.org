@@ -9,7 +9,7 @@ title: Monitoring
 
 9
 : **Interpretable Uncertainty**
-: [🎥](#media-popup){:class="youtube" media-id="nWfCp7ZN6H8"}, [🖥️](https://docs.google.com/presentation/d/1GHKlv-9UmQdUPracBr09AC2rFZp_GQyJzSQrvSWFjPM/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Interpretable%20Uncertainty/main.md)
+: [🎥](#media-popup){:class="youtube" media-id="nWfCp7ZN6H8"}, [🖥️](https://docs.google.com/presentation/d/18yWh74a4OANPX1aWhILO5vRjmkTSbcoV9oUZh44D9rg/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Interpretable%20Uncertainty/main.md)
 : _calibration vs sharpness, proper scoring rules, Brier score, RMS calibration error, reliability diagrams, confidence intervals, quantile prediction_
 
 10
