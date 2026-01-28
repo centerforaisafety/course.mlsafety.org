@@ -9,7 +9,7 @@ title: Monitoring
 
 9
 : **Interpretable Uncertainty**
-: [🎥](#media-popup){:class="youtube" media-id="nWfCp7ZN6H8"}, [🖥️](https://docs.google.com/presentation/d/18yWh74a4OANPX1aWhILO5vRjmkTSbcoV9oUZh44D9rg/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Interpretable%20Uncertainty/main.md)
+: [🎥](#media-popup){:class="youtube" media-id="nWfCp7ZN6H8"}, [🖥️](https://docs.google.com/presentation/d/1GHKlv-9UmQdUPracBr09AC2rFZp_GQyJzSQrvSWFjPM/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Interpretable%20Uncertainty/main.md)
 : _calibration vs sharpness, proper scoring rules, Brier score, RMS calibration error, reliability diagrams, confidence intervals, quantile prediction_
 
 10
@@ -19,7 +19,7 @@ title: Monitoring
 
 11
 : **Trojans**
-: [🎥](#media-popup){:class="youtube" media-id="KnA_aTQ9upU"}, [🖥️](https://docs.google.com/presentation/d/1Nu5WwLQ7CDk_DotP_ET98F2F-2KBp9W8lkAfuCbeZ7E/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Trojans/trojans.md), [⌨️](https://colab.research.google.com/drive/1gK943aicv8QrElCBIZPz2CNdtdH1dpA2?copy)
+: [🎥](#media-popup){:class="youtube" media-id="KnA_aTQ9upU"}, [🖥️](https://docs.google.com/presentation/d/18yWh74a4OANPX1aWhILO5vRjmkTSbcoV9oUZh44D9rg/edit?usp=sharing), [📖](https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Trojans/trojans.md), [⌨️](https://colab.research.google.com/drive/1gK943aicv8QrElCBIZPz2CNdtdH1dpA2?copy)
 : _hidden functionality from poisoning, treacherous turns_
 
 12
